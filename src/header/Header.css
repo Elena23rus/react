@@ -1,0 +1,17 @@
+.wrap{
+    width: 90%;
+    margin: auto;
+}
+.title{
+    font-size: 30px;
+    font-weight: 400;
+    color: #fff;
+    margin: 0;
+}
+.header{
+    padding: 20px 0;
+    border: 1px solid #5555;
+    margin-bottom: 30px;
+    
+}
+
